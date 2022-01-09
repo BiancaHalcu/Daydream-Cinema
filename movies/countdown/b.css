@@ -1,0 +1,55 @@
+.container {
+display: flex;
+align-items: center;
+justify-content: center
+}
+img {
+max-width: 100%
+}
+.imag {
+flex-basis: 85%
+}
+.text {
+color:white;
+font-size: 20px;
+padding-left: 20px;
+}
+.actori{
+border-radius: 50%;
+width:90px;
+}
+
+.act {
+  display: inline-block;
+  position: relative;
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.act img {
+  width: auto;
+  height: 100%;
+  margin-left: -50px;
+}
+.ac {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.ac img{
+  width: 100%;
+  height: auto;
+}
+
+table{
+  color:white;
+margin-top:50px;
+margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 20px 0;
+}

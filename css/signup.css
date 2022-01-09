@@ -1,0 +1,47 @@
+
+button { 
+       background-color: #871f24; 
+       width: 100%;
+       color: white; 
+       padding: 15px; 
+       margin: 10px 0px; 
+       border: none; 
+       cursor: pointer; 
+} 
+label{
+color:white;
+}
+p{
+color:white;
+text-transform: uppercase;
+text-shadow: 1px 1px black;
+text-align: center;
+}
+
+#culoare{
+color:white;
+}
+
+ input[type=text], input[type=password] { 
+        width: 100%; 
+        margin: 8px 0;
+        padding: 12px 20px; 
+        display: inline-block; 
+        border: 2px solid black; 
+        box-sizing: border-box; 
+    }
+ button:hover { 
+        opacity: 0.7; 
+    } 
+  .cancelbtn { 
+        width: auto; 
+        padding: 10px 18px;
+        margin: 10px 5px;
+    } 
+      
+   
+ .container { 
+        padding: 25px; 
+	width: 50%;
+	margin:auto;
+    }
